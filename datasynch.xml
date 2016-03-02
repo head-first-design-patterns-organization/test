@@ -12,12 +12,12 @@
         <method srcname="T_BASE_ENTERPRISE" desname="t_epgis_enterprise" visible="true">
             <fields>
                 <field>
-                    <srcname>ID</srcname>
+                    <srcname>ID</srcname>*****789
                     <desname>gid</desname>
                     <visible>true</visible>
                 </field>
                 <field>
-                    <srcname>IS_E30</srcname>
+                    <srcname></srcname>
                     <desname>is_e30</desname>
                     <visible>true</visible>
                 </field>
